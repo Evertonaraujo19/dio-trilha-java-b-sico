@@ -1,2 +1,2 @@
-# dio-trilha-java-b-sico
+# dio-trilha-java-basico
 repositório para testes do curso dio
